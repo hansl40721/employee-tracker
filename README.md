@@ -19,11 +19,13 @@
 
   ## Installation 
 
-  Clone the GitHub repo and run node index.js in the terminal
+  Clone the GitHub repo 
 
   ## Usage
 
-  See above
+  Run node index.js in the terminal
+
+  [Employee Tracker Demo.webm](https://github.com/hansl40721/employee-tracker/assets/123116520/b5af052e-01e5-484d-889b-47edb2272c24)
 
   ## Credits 
 
